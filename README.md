@@ -3,7 +3,7 @@
 A sleek and responsive Music Player User Interface built using React.js. This music player UI allows users to play, pause, skip tracks, and control the volume with a clean and modern design.
 
 🚀 Features
-✅ Play / Pause / Next / Previous buttons
+✅ Play / Pause / Next / Previous buttons<br>
 ✅ Progress bar to show song duration and current time
 ✅ Volume control slider
 ✅ Responsive and user-friendly design
