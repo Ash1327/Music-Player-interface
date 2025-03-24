@@ -2,8 +2,8 @@
 🎵 Music Player UI
 A sleek and responsive Music Player User Interface built using React.js. This music player UI allows users to play, pause, and skip tracks with a clean and modern design.
 
-# 🎥 Demo
-Check out the live demo of the Music Player UI:
+# 🎥 Demo<br>
+Check out the live demo of the Music Player UI:<br>
 🔗 Live Demo :  https://music-player-interface.netlify.app/
 
 # 🚀 Features<br>
